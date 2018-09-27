@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: C22Test
+Test set: C52Test
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in C22Test
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in C52Test
